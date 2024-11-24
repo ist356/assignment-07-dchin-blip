@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I've never gone to a Tully's, but it is a real chain of restaurants. I learned how to navigate through a real-life website and saw how to use query_selector and query_selector_all to navigate to specific sections, put them in a cleaner/formatting function, and save them as a custom data type.
